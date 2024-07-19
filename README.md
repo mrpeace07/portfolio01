@@ -35,10 +35,4 @@ Windows:
 git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
 ```
 
-## Contact
 
-If you want to contact me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-MIT
