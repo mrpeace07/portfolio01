@@ -1455,7 +1455,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* testimonials modal */
 
-  .modal-container { padding: 20px; }
+  .modal-container { padding: 20px; display: none;}
 
   .testimonials-modal {
     display: flex;
